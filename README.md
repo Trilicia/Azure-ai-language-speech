@@ -82,7 +82,7 @@ Durante o laboratório foi possível compreender como serviços cognitivos da Az
 
 ## Speech Studio
 
-![Speech Studio]("./Prints%20Azure%20IA.png")
+![Speech Studio]("./Impressões%20Azure%20IA.png")
 
 ---
 
